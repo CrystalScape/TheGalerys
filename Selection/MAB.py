@@ -6,7 +6,7 @@ import torch
 from torch.nn import Linear
 from torch.nn import Conv2d
 from torch.nn import Softmax
-from torch.nn import Flatten
+from torch.nn import Flatten 
 from torch.nn import BatchNorm2d
 from torch.nn import LeakyReLU
 from torch.nn import Dropout
