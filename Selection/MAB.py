@@ -105,7 +105,7 @@ class MAB_Env :
         return values
         
              
-Slec = MAB_Env(5 , 'DataGambar\date')     
+Slec = MAB_Env(5 , '\mount\src\thegalerys\Selection\DataGambar\date')     
 print(Slec.image_Slection())
       
             
