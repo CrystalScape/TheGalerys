@@ -1,0 +1,1400 @@
+,promth,label
+0,tampilkan foto kita saat berdua,date
+1,aku ingin lihat foto mesra kita,date
+2,tampilkan kenangan saat sma,sma
+3,tampilkan foto aktivitas kita di kampus,kuliah
+4,aku ingin lihat foto yudo,yudo
+5,perlihatkan foto yudo saja,yudo
+6,aku ingin mengingat kenangan dulu saat sma,sma
+7,perlihatkan foto kita saat keluar,date
+8,tampilkan foto saat di kampus,kuliah
+9,tampilkan foto saat kuliah,kuliah 
+10,aku ingin lihat foto saat date ,date
+11,tolong tampilkan foto saat sma,sma
+12,aku ingin lihat foto ku,yudo
+13,aku ingin lihat foto ovil,ovil 
+14,aku ingin lihat foto ovil saja,ovil 
+15,bisa tolong tampilkan foto ku ,yudo
+16,foto saat kuliah,kuliah
+17,foto acara kampus,kuliah
+18,aku ingin lihat foto ovil apa saja,ovil 
+19,aku ingin lihat jumplah foto ku,len_yudo
+20,jumlah foto saat kuliah berapa,len_kuliah
+21,berapasih jumlah foto ku,len_yudo
+22,tampilkan foto ovil,ovil 
+23,tampilkan foto ku dong,yudo
+24,kenangan saat sma,sma
+25,tampilkan jumlah foto saat sma,len_sma
+26,kenangan saat sma apa saja,sma 
+27,tampilkan foto ovil saja ya,ovil 
+28,tampilkan foto saat jaman sma,sma
+29,tampilkan foto kita saat berdua,date
+30,aku ingin lihat foto mesra kita,date
+31,tampilkan kenangan saat sma ,sma
+32,tampilkan foto aktivitas kita di kampus,kuliah
+33,aku ingin lihat foto yudo,yudo
+34,perlihatkan foto yudo saja,yudo
+35,aku ingin mengingat kenangan dulu saat sma,sma
+36,perlihatkan foto kita saat keluar,date
+37,tampilkan foto saat di kampus,kuliah
+38,tampilkan foto saat kuliah,kuliah 
+39,aku ingin lihat foto saat date ,date
+40,tolong tampilkan foto saat sma,sma
+41,aku ingin lihat foto ku,yudo
+42,aku ingin lihat foto ovil,ovil 
+43,aku ingin lihat foto ovil saja,ovil 
+44,bisa tolong tampilkan foto ku ,yudo
+45,foto saat kuliah,kuliah
+46,foto acara kampus,kuliah
+47,aku ingin lihat foto ovil apa saja,ovil 
+48,aku ingin lihat jumplah foto ku,len_yudo
+49,jumlah foto saat kuliah berapa,len_kuliah
+50,berapasih jumlah foto ku,len_yudo
+51,tampilkan foto ovil,ovil 
+52,tampilkan foto ku dong,yudo
+53,kenangan saat sma,sma
+54,tampilkan jumlah foto saat sma,len_sma
+55,kenangan saat sma apa saja,sma 
+56,tampilkan foto ovil saja ya,ovil 
+57,tampilkan foto saat jaman sma,sma
+58,tampilkan foto kita saat berdua,date
+59,aku ingin lihat foto mesra kita,date
+60,tampilkan kenangan saat sma,sma
+61,tampilkan foto aktivitas kita di kampus,kuliah
+62,aku ingin lihat foto yudo,yudo
+63,perlihatkan foto yudo saja,yudo
+64,aku ingin mengingat kenangan dulu saat sma,sma
+65,perlihatkan foto kita saat keluar,date
+66,tampilkan foto saat di kampus,kuliah
+67,tampilkan foto saat kuliah,kuliah 
+68,aku ingin lihat foto saat date,date
+69,tolong tampilkan foto saat sma,sma
+70,aku ingin lihat foto ku,yudo
+71,aku ingin lihat foto ovil,ovil 
+72,aku ingin lihat foto ovil saja,ovil 
+73,bisa tolong tampilkan foto ku ,yudo
+74,foto saat kuliah,kuliah
+75,foto acara kampus,kuliah
+76,aku ingin lihat foto ovil apa saja,ovil 
+77,aku ingin lihat jumplah foto ku,len_yudo
+78,jumlah foto saat kuliah berapa,len_kuliah
+79,berapasih jumlah foto ku,len_yudo
+80,tampilkan foto ovil,ovil 
+81,tampilkan foto ku dong,yudo
+82,kenangan saat sma,sma
+83,tampilkan jumlah foto saat sma,len_sma
+84,kenangan saat sma apa saja,sma 
+85,tampilkan foto ovil saja ya,ovil 
+86,tampilkan foto saat jaman sma,sma
+87,tampilkan foto kita saat berdua,date
+88,aku ingin lihat foto mesra kita,date
+89,tampilkan kenangan saat sma,sma
+90,tampilkan foto aktivitas kita di kampus,kuliah
+91,aku ingin lihat foto yudo,yudo
+92,perlihatkan foto yudo saja,yudo
+93,aku ingin mengingat kenangan dulu saat sma,sma
+94,perlihatkan foto kita saat keluar,date
+95,tampilkan foto saat di kampus,kuliah
+96,tampilkan foto saat kuliah,kuliah 
+97,aku ingin lihat foto saat date,date
+98,tolong tampilkan foto saat sma,sma
+99,aku ingin lihat foto ku,yudo
+100,aku ingin lihat foto ovil,ovil 
+101,aku ingin lihat foto ovil saja,ovil 
+102,bisa tolong tampilkan foto ku,yudo
+103,foto saat kuliah,kuliah
+104,foto acara kampus,kuliah
+105,aku ingin lihat foto ovil apa saja,ovil 
+106,aku ingin lihat jumplah foto ku,len_yudo
+107,jumlah foto saat kuliah berapa,len_kuliah
+108,berapasih jumlah foto ku,len_yudo
+109,tampilkan foto ovil,ovil 
+110,tampilkan foto ku dong,yudo
+111,kenangan saat sma,sma
+112,tampilkan jumlah foto saat sma,len_sma
+113,kenangan saat sma apa saja,sma 
+114,tampilkan foto ovil saja ya,ovil 
+115,tampilkan foto saat jaman sma,sma
+116,tampilkan foto kita saat berdua,date
+117,aku ingin lihat foto mesra kita,date
+118,tampilkan kenangan saat sma,sma
+119,tampilkan foto aktivitas kita di kampus,kuliah
+120,aku ingin lihat foto yudo,yudo
+121,perlihatkan foto yudo saja,yudo
+122,aku ingin mengingat kenangan dulu saat sma,sma
+123,perlihatkan foto kita saat keluar,date
+124,tampilkan foto saat di kampus,kuliah
+125,tampilkan foto saat kuliah,kuliah 
+126,aku ingin lihat foto saat date,date
+127,tolong tampilkan foto saat sma,sma
+128,aku ingin lihat foto ku,yudo
+129,aku ingin lihat foto ovil,ovil 
+130,aku ingin lihat foto ovil saja,ovil 
+131,bisa tolong tampilkan foto ku,yudo
+132,foto saat kuliah,kuliah
+133,foto acara kampus,kuliah
+134,aku ingin lihat foto ovil apa saja,ovil 
+135,aku ingin lihat jumplah foto ku,len_yudo
+136,jumlah foto saat kuliah berapa,len_kuliah
+137,berapasih jumlah foto ku,len_yudo
+138,tampilkan foto ovil,ovil 
+139,tampilkan foto ku dong,yudo
+140,kenangan saat sma,sma
+141,tampilkan jumlah foto saat sma,len_sma
+142,kenangan saat sma apa saja,sma 
+143,tampilkan foto ovil saja ya,ovil 
+144,tampilkan foto saat jaman sma,sma
+145,tampilkan jumlah foto date,len_date
+146,aku ingin lihat foto mesra kita,date
+147,tampilkan kenangan saat sma ,sma
+148,tampilkan foto aktivitas kita di kampus,kuliah
+149,aku ingin lihat foto yudo,yudo
+150,perlihatkan foto yudo saja,yudo
+151,aku ingin mengingat kenangan dulu saat sma,sma
+152,perlihatkan foto kita saat keluar,date
+153,tampilkan foto saat di kampus,kuliah
+154,tampilkan foto saat kuliah,kuliah 
+155,aku ingin lihat foto saat date,date
+156,tolong tampilkan foto saat sma,sma
+157,aku ingin lihat foto ku,yudo
+158,aku ingin lihat foto ovil,ovil 
+159,aku ingin lihat foto ovil saja,ovil 
+160,bisa tolong tampilkan foto ku,yudo
+161,foto saat kuliah,kuliah
+162,foto acara kampus,kuliah
+163,aku ingin lihat foto ovil apa saja,ovil 
+164,aku ingin lihat jumplah foto ku,len_yudo
+165,jumlah foto saat kuliah berapa,len_kuliah
+166,berapasih jumlah foto ku,len_yudo
+167,tampilkan foto ovil,ovil 
+168,tampilkan foto ku dong,yudo
+169,kenangan saat sma,sma
+170,tampilkan jumlah foto saat sma,len_sma
+171,kenangan saat sma apa saja,sma 
+172,tampilkan foto ovil saja ya,ovil 
+173,tampilkan foto saat jaman sma,sma
+174,tampilkan foto kita saat berdua,date
+175,tampilkan foto kita saat berdua,date
+176,aku ingin lihat foto mesra kita,date
+177,tampilkan kenangan saat sma,sma
+178,tampilkan foto aktivitas kita di kampus,kuliah
+179,aku ingin lihat foto yudo,yudo
+180,perlihatkan foto yudo saja,yudo
+181,aku ingin mengingat kenangan dulu saat sma,sma
+182,perlihatkan foto kita saat keluar,date
+183,tampilkan foto saat di kampus,kuliah
+184,tampilkan foto saat kuliah,kuliah 
+185,aku ingin lihat foto saat date ,date
+186,tolong tampilkan foto saat sma,sma
+187,aku ingin lihat foto ku,yudo
+188,aku ingin lihat foto ovil,ovil 
+189,aku ingin lihat foto ovil saja,ovil 
+190,bisa tolong tampilkan foto ku ,yudo
+191,foto saat kuliah,kuliah
+192,foto acara kampus,kuliah
+193,aku ingin lihat foto ovil apa saja,ovil 
+194,aku ingin lihat jumplah foto ku,len_yudo
+195,jumlah foto saat kuliah berapa,len_kuliah
+196,berapasih jumlah foto ku ,len_yudo
+197,tampilkan foto ovil,ovil 
+198,tampilkan foto ku dong,yudo
+199,kenangan saat sma,sma
+200,tampilkan jumlah foto saat sma,len_sma
+201,kenangan saat sma apa saja,sma 
+202,tampilkan foto ovil saja ya,ovil 
+203,tampilkan foto saat jaman sma,sma
+204,tampilkan foto kita saat berdua,date
+205,aku ingin lihat foto mesra kita,date
+206,tampilkan kenangan saat sma,sma
+207,tampilkan foto aktivitas kita di kampus,kuliah
+208,aku ingin lihat foto yudo,yudo
+209,perlihatkan foto yudo saja,yudo
+210,aku ingin mengingat kenangan dulu saat sma,sma
+211,perlihatkan foto kita saat keluar,date
+212,tampilkan foto saat di kampus,kuliah
+213,tampilkan foto saat kuliah,kuliah 
+214,aku ingin lihat foto saat date,date
+215,tolong tampilkan foto saat sma,sma
+216,aku ingin lihat foto ku,yudo
+217,aku ingin lihat foto ovil,ovil 
+218,aku ingin lihat foto ovil saja,ovil 
+219,bisa tolong tampilkan foto ku ,yudo
+220,foto saat kuliah,kuliah
+221,foto acara kampus,kuliah
+222,aku ingin lihat foto ovil apa saja,ovil 
+223,aku ingin lihat jumplah foto ku,len_yudo
+224,jumlah foto saat kuliah berapa,len_kuliah
+225,berapasih jumlah foto ku,len_yudo
+226,tampilkan foto ovil,ovil 
+227,tampilkan foto ku dong,yudo
+228,kenangan saat sma,sma
+229,tampilkan jumlah foto saat sma,len_sma
+230,kenangan saat sma apa saja,sma 
+231,tampilkan foto ovil saja ya,ovil 
+232,tampilkan foto saat jaman sma,sma
+233,tampilkan foto kita saat berdua,date
+234,aku ingin lihat foto mesra kita,date
+235,tampilkan kenangan saat sma ,sma
+236,tampilkan foto aktivitas kita di kampus,kuliah
+237,aku ingin lihat foto yudo,yudo
+238,perlihatkan foto yudo saja,yudo
+239,aku ingin mengingat kenangan dulu saat sma,sma
+240,perlihatkan foto kita saat keluar,date
+241,tampilkan foto saat di kampus,kuliah
+242,tampilkan foto saat kuliah,kuliah 
+243,aku ingin lihat foto saat date ,date
+244,tolong tampilkan foto saat sma,sma
+245,aku ingin lihat foto ku,yudo
+246,aku ingin lihat foto ovil,ovil 
+247,aku ingin lihat foto ovil saja,ovil 
+248,bisa tolong tampilkan foto ku ,yudo
+249,foto saat kuliah,kuliah
+250,foto acara kampus,kuliah
+251,aku ingin lihat foto ovil apa saja,ovil 
+252,aku ingin lihat jumplah foto ku,len_yudo
+253,jumlah foto saat kuliah berapa,len_kuliah
+254,berapasih jumlah foto ku,len_yudo
+255,tampilkan foto ovil,ovil 
+256,tampilkan foto ku dong,yudo
+257,kenangan saat sma,sma
+258,tampilkan jumlah foto saat sma,len_sma
+259,kenangan saat sma apa saja,sma 
+260,tampilkan foto ovil saja ya,ovil 
+261,tampilkan foto saat jaman sma,sma
+262,tampilkan foto kita saat berdua,date
+263,aku ingin lihat foto mesra kita,date
+264,tampilkan kenangan saat sma,sma
+265,tampilkan foto aktivitas kita di kampus,kuliah
+266,aku ingin lihat foto yudo,yudo
+267,perlihatkan foto yudo saja,yudo
+268,aku ingin mengingat kenangan dulu saat sma,sma
+269,perlihatkan foto kita saat keluar,date
+270,tampilkan foto saat di kampus,kuliah
+271,tampilkan foto saat kuliah,kuliah 
+272,aku ingin lihat foto saat date,date
+273,tolong tampilkan foto saat sma,sma
+274,aku ingin lihat foto ku,yudo
+275,aku ingin lihat foto ovil,ovil 
+276,aku ingin lihat foto ovil saja,ovil 
+277,bisa tolong tampilkan foto ku,yudo
+278,foto saat kuliah,kuliah
+279,foto acara kampus,kuliah
+280,aku ingin lihat foto ovil apa saja,ovil 
+281,aku ingin lihat jumplah foto ku,len_yudo
+282,jumlah foto saat kuliah berapa,len_kuliah
+283,berapasih jumlah foto ku ,len_yudo
+284,tampilkan foto ovil,ovil 
+285,tampilkan foto ku dong,yudo
+286,kenangan saat sma,sma
+287,tampilkan jumlah foto saat sma,len_sma
+288,kenangan saat sma apa saja,sma 
+289,tampilkan foto ovil saja ya,ovil 
+290,tampilkan foto saat jaman sma,sma
+291,tampilkan foto kita saat berdua,date
+292,aku ingin lihat foto mesra kita,date
+293,tampilkan kenangan saat sma,sma
+294,tampilkan foto aktivitas kita di kampus,kuliah
+295,aku ingin lihat foto yudo,yudo
+296,perlihatkan foto yudo saja,yudo
+297,aku ingin mengingat kenangan dulu saat sma,sma
+298,perlihatkan foto kita saat keluar,date
+299,tampilkan foto saat di kampus,kuliah
+300,tampilkan foto saat kuliah,kuliah 
+301,aku ingin lihat foto saat date,date
+302,tolong tampilkan foto saat sma,sma
+303,aku ingin lihat foto ku,yudo
+304,aku ingin lihat foto ovil,ovil 
+305,aku ingin lihat foto ovil saja,ovil 
+306,bisa tolong tampilkan foto ku ,yudo
+307,foto saat kuliah,kuliah
+308,foto acara kampus,kuliah
+309,aku ingin lihat foto ovil apa saja,ovil 
+310,aku ingin lihat jumplah foto ku,len_yudo
+311,jumlah foto saat kuliah berapa,len_kuliah
+312,berapasih jumlah foto ku ,len_yudo
+313,tampilkan foto ovil,ovil 
+314,tampilkan foto ku dong,yudo
+315,kenangan saat sma,sma
+316,tampilkan jumlah foto saat sma,len_sma
+317,kenangan saat sma apa saja,sma 
+318,tampilkan foto ovil saja ya,ovil 
+319,tampilkan foto saat jaman sma,sma
+320,tampilkan foto kita saat berdua,date
+321,aku ingin lihat foto mesra kita,date
+322,tampilkan kenangan saat sma,sma
+323,tampilkan foto aktivitas kita di kampus,kuliah
+324,aku ingin lihat foto yudo,yudo
+325,perlihatkan foto yudo saja,yudo
+326,aku ingin mengingat kenangan dulu saat sma,sma
+327,tampilkan dong jumlah foto saat date ya,len_date
+328,tampilkan foto saat di kampus,kuliah
+329,tampilkan foto saat kuliah,kuliah 
+330,aku ingin lihat foto saat date ,date
+331,tolong tampilkan foto saat sma,sma
+332,aku ingin lihat foto ku,yudo
+333,aku ingin lihat foto ovil,ovil 
+334,aku ingin lihat foto ovil saja,ovil 
+335,bisa tolong tampilkan foto ku,yudo
+336,foto saat kuliah,kuliah
+337,foto acara kampus,kuliah
+338,aku ingin lihat foto ovil apa saja,ovil 
+339,aku ingin lihat jumplah foto ku,len_yudo
+340,jumlah foto saat kuliah berapa,len_kuliah
+341,berapasih jumlah foto ku,len_yudo
+342,tampilkan foto ovil,ovil 
+343,tampilkan foto ku dong,yudo
+344,kenangan saat sma,sma
+345,tampilkan jumlah foto saat sma,len_sma
+346,kenangan saat sma apa saja,sma 
+347,tampilkan foto ovil saja ya,ovil 
+348,tampilkan foto saat jaman sma,sma
+349,jumlah foto date,len_date
+350,tampilkan foto kita saat berdua,date
+351,aku ingin lihat foto mesra kita,date
+352,tampilkan kenangan saat sma,sma
+353,tampilkan foto aktivitas kita di kampus,kuliah
+354,aku ingin lihat foto yudo,yudo
+355,perlihatkan foto yudo saja,yudo
+356,aku ingin mengingat kenangan dulu saat sma,sma
+357,perlihatkan foto kita saat keluar,date
+358,tampilkan foto saat di kampus,kuliah
+359,tampilkan foto saat kuliah,kuliah 
+360,aku ingin lihat foto saat date,date
+361,tolong tampilkan foto saat sma,sma
+362,aku ingin lihat foto ku,yudo
+363,aku ingin lihat foto ovil,ovil 
+364,aku ingin lihat foto ovil saja,ovil 
+365,bisa tolong tampilkan foto ku,yudo
+366,foto saat kuliah,kuliah
+367,foto acara kampus,kuliah
+368,aku ingin lihat foto ovil apa saja,ovil 
+369,aku ingin lihat jumplah foto ku,len_yudo
+370,jumlah foto saat kuliah berapa,len_kuliah
+371,berapasih jumlah foto ku ,len_yudo
+372,tampilkan foto ovil,ovil 
+373,tampilkan foto ku dong,yudo
+374,kenangan saat sma,sma
+375,tampilkan jumlah foto saat sma,len_sma
+376,kenangan saat sma apa saja,sma 
+377,tampilkan foto ovil saja ya,ovil 
+378,tampilkan foto saat jaman sma,sma
+379,tampilkan foto kita saat berdua,date
+380,aku ingin lihat foto mesra kita,date
+381,tampilkan kenangan saat sma ,sma
+382,tampilkan foto aktivitas kita di kampus,kuliah
+383,aku ingin lihat foto yudo,yudo
+384,perlihatkan foto yudo saja,yudo
+385,aku ingin mengingat kenangan dulu saat sma,sma
+386,perlihatkan foto kita saat keluar,date
+387,tampilkan foto saat di kampus,kuliah
+388,tampilkan foto saat kuliah,kuliah 
+389,aku ingin lihat foto saat date,date
+390,tolong tampilkan foto saat sma,sma
+391,aku ingin lihat foto ku,yudo
+392,aku ingin lihat foto ovil,ovil 
+393,aku ingin lihat foto ovil saja,ovil 
+394,bisa tolong tampilkan foto ku,yudo
+395,foto saat kuliah,kuliah
+396,foto acara kampus,kuliah
+397,aku ingin lihat foto ovil apa saja,ovil 
+398,aku ingin lihat jumplah foto ku,len_yudo
+399,jumlah foto saat kuliah berapa,len_kuliah
+400,berapasih jumlah foto ku,len_yudo
+401,tampilkan foto ovil,ovil 
+402,tampilkan foto ku dong,yudo
+403,kenangan saat sma,sma
+404,tampilkan jumlah foto saat sma,len_sma
+405,kenangan saat sma apa saja,sma 
+406,tampilkan foto ovil saja ya,ovil 
+407,tampilkan foto saat jaman sma,sma
+408,tampilkan foto kita saat berdua,date
+409,aku ingin lihat foto mesra kita,date
+410,tampilkan kenangan saat sma,sma
+411,tampilkan foto aktivitas kita di kampus,kuliah
+412,aku ingin lihat foto yudo,yudo
+413,perlihatkan foto yudo saja,yudo
+414,aku ingin mengingat kenangan dulu saat sma,sma
+415,perlihatkan foto kita saat keluar,date
+416,tampilkan foto saat di kampus,kuliah
+417,tampilkan foto saat kuliah,kuliah 
+418,aku ingin lihat foto saat date,date
+419,tolong tampilkan foto saat sma,sma
+420,aku ingin lihat foto ku,yudo
+421,aku ingin lihat foto ovil,ovil 
+422,aku ingin lihat foto ovil saja,ovil 
+423,bisa tolong tampilkan foto ku,yudo
+424,foto saat kuliah,kuliah
+425,foto acara kampus,kuliah
+426,aku ingin lihat foto ovil apa saja,ovil 
+427,aku ingin lihat jumplah foto ku,len_yudo
+428,jumlah foto saat kuliah berapa,len_kuliah
+429,berapasih jumlah foto ku ,len_yudo
+430,tampilkan foto ovil,ovil 
+431,tampilkan foto ku dong,yudo
+432,kenangan saat sma,sma
+433,tampilkan jumlah foto saat sma,len_sma
+434,kenangan saat sma apa saja,sma 
+435,tampilkan foto ovil saja ya,ovil 
+436,tampilkan foto saat jaman sma,sma
+437,tampilkan foto kita saat berdua,date
+438,aku ingin lihat foto mesra kita,date
+439,tampilkan kenangan saat sma ,sma
+440,tampilkan foto aktivitas kita di kampus,kuliah
+441,aku ingin lihat foto yudo,yudo
+442,perlihatkan foto yudo saja,yudo
+443,aku ingin mengingat kenangan dulu saat sma,sma
+444,perlihatkan foto kita saat keluar,date
+445,tampilkan foto saat di kampus,kuliah
+446,tampilkan foto saat kuliah,kuliah 
+447,aku ingin lihat foto saat date,date
+448,tolong tampilkan foto saat sma,sma
+449,aku ingin lihat foto ku,yudo
+450,aku ingin lihat foto ovil,ovil 
+451,aku ingin lihat foto ovil saja,ovil 
+452,bisa tolong tampilkan foto ku,yudo
+453,foto saat kuliah,kuliah
+454,foto acara kampus,kuliah
+455,aku ingin lihat foto ovil apa saja,ovil 
+456,aku ingin lihat jumplah foto ku,len_yudo
+457,jumlah foto saat kuliah berapa,len_kuliah
+458,berapasih jumlah foto ku,len_yudo
+459,tampilkan foto ovil,ovil 
+460,tampilkan foto ku dong,yudo
+461,kenangan saat sma,sma
+462,tampilkan jumlah foto saat sma,len_sma
+463,kenangan saat sma apa saja,sma 
+464,tampilkan foto ovil saja ya,ovil 
+465,tampilkan foto saat jaman sma,sma
+466,tampilkan foto kita saat berdua,date
+467,aku ingin lihat foto mesra kita,date
+468,tampilkan kenangan saat sma,sma
+469,tampilkan foto aktivitas kita di kampus,kuliah
+470,aku ingin lihat foto yudo,yudo
+471,perlihatkan foto yudo saja,yudo
+472,aku ingin mengingat kenangan dulu saat sma,sma
+473,perlihatkan foto kita saat keluar,date
+474,tampilkan foto saat di kampus,kuliah
+475,tampilkan foto saat kuliah,kuliah 
+476,aku ingin lihat foto saat date,date
+477,tolong tampilkan foto saat sma,sma
+478,aku ingin lihat foto ku,yudo
+479,aku ingin lihat foto ovil,ovil 
+480,aku ingin lihat foto ovil saja,ovil 
+481,bisa tolong tampilkan foto ku,yudo
+482,foto saat kuliah,kuliah
+483,foto acara kampus,kuliah
+484,aku ingin lihat foto ovil apa saja,ovil 
+485,aku ingin lihat jumplah foto ku,len_yudo
+486,jumlah foto saat kuliah berapa,len_kuliah
+487,berapasih jumlah foto ku,len_yudo
+488,tampilkan foto ovil,ovil 
+489,tampilkan foto ku dong,yudo
+490,kenangan saat sma,sma
+491,tampilkan jumlah foto saat sma,len_sma
+492,kenangan saat sma apa saja,sma 
+493,tampilkan foto ovil saja ya,ovil 
+494,tampilkan foto saat jaman sma,sma
+495,tampilkan jumlah foto date,len_date
+496,aku ingin lihat foto mesra kita,date
+497,tampilkan kenangan saat sma,sma
+498,tampilkan foto aktivitas kita di kampus,kuliah
+499,aku ingin lihat foto yudo,yudo
+500,perlihatkan foto yudo saja,yudo
+501,aku ingin mengingat kenangan dulu saat sma,sma
+502,perlihatkan foto kita saat keluar,date
+503,tampilkan foto saat di kampus,kuliah
+504,tampilkan foto saat kuliah,kuliah 
+505,aku ingin lihat foto saat date,date
+506,tolong tampilkan foto saat sma,sma
+507,aku ingin lihat foto ku,yudo
+508,aku ingin lihat foto ovil,ovil 
+509,aku ingin lihat foto ovil saja,ovil 
+510,bisa tolong tampilkan foto ku,yudo
+511,foto saat kuliah,kuliah
+512,foto acara kampus,kuliah
+513,aku ingin lihat foto ovil apa saja,ovil 
+514,aku ingin lihat jumplah foto ku,len_yudo
+515,jumlah foto saat kuliah berapa,len_kuliah
+516,berapasih jumlah foto ku ,len_yudo
+517,tampilkan foto ovil,ovil 
+518,tampilkan foto ku dong,yudo
+519,kenangan saat sma,sma
+520,tampilkan jumlah foto saat sma,len_sma
+521,kenangan saat sma apa saja,sma 
+522,tampilkan foto ovil saja ya,ovil 
+523,tampilkan foto saat jaman sma,sma
+524,tampilkan foto kita saat berdua,date
+525,tampilkan foto kita saat berdua,date
+526,aku ingin lihat foto mesra kita,date
+527,tampilkan kenangan saat sma ,sma
+528,tampilkan foto aktivitas kita di kampus,kuliah
+529,aku ingin lihat foto yudo,yudo
+530,perlihatkan foto yudo saja,yudo
+531,aku ingin mengingat kenangan dulu saat sma,sma
+532,perlihatkan foto kita saat keluar,date
+533,tampilkan foto saat di kampus,kuliah
+534,tampilkan foto saat kuliah,kuliah 
+535,aku ingin lihat foto saat date,date
+536,tolong tampilkan foto saat sma,sma
+537,aku ingin lihat foto ku,yudo
+538,aku ingin lihat foto ovil,ovil 
+539,aku ingin lihat foto ovil saja,ovil 
+540,bisa tolong tampilkan foto ku,yudo
+541,foto saat kuliah,kuliah
+542,foto acara kampus,kuliah
+543,aku ingin lihat foto ovil apa saja,ovil 
+544,aku ingin lihat jumplah foto ku,len_yudo
+545,jumlah foto saat kuliah berapa,len_kuliah
+546,berapasih jumlah foto ku,len_yudo
+547,tampilkan foto ovil,ovil 
+548,tampilkan foto ku dong,yudo
+549,kenangan saat sma,sma
+550,tampilkan jumlah foto saat sma,len_sma
+551,kenangan saat sma apa saja,sma 
+552,tampilkan foto ovil saja ya,ovil 
+553,tampilkan foto saat jaman sma,sma
+554,tampilkan foto kita saat berdua,date
+555,aku ingin lihat foto mesra kita,date
+556,tampilkan kenangan saat sma,sma
+557,tampilkan foto aktivitas kita di kampus,kuliah
+558,aku ingin lihat foto yudo,yudo
+559,perlihatkan foto yudo saja,yudo
+560,aku ingin mengingat kenangan dulu saat sma,sma
+561,perlihatkan foto kita saat keluar,date
+562,tampilkan foto saat di kampus,kuliah
+563,tampilkan foto saat kuliah,kuliah 
+564,aku ingin lihat foto saat date,date
+565,tolong tampilkan foto saat sma,sma
+566,aku ingin lihat foto ku,yudo
+567,aku ingin lihat foto ovil,ovil 
+568,aku ingin lihat foto ovil saja,ovil 
+569,bisa tolong tampilkan foto ku ,yudo
+570,foto saat kuliah,kuliah
+571,foto acara kampus,kuliah
+572,aku ingin lihat foto ovil apa saja,ovil 
+573,aku ingin lihat jumplah foto ku,len_yudo
+574,jumlah foto saat kuliah berapa,len_kuliah
+575,berapasih jumlah foto ku ,len_yudo
+576,tampilkan foto ovil,ovil 
+577,tampilkan foto ku dong,yudo
+578,kenangan saat sma,sma
+579,tampilkan jumlah foto saat sma,len_sma
+580,kenangan saat sma apa saja,sma 
+581,tampilkan foto ovil saja ya,ovil 
+582,tampilkan foto saat jaman sma,sma
+583,tampilkan foto kita saat berdua,date
+584,aku ingin lihat foto mesra kita,date
+585,tampilkan kenangan saat sma,sma
+586,tampilkan foto aktivitas kita di kampus,kuliah
+587,aku ingin lihat foto yudo,yudo
+588,perlihatkan foto yudo saja,yudo
+589,aku ingin mengingat kenangan dulu saat sma,sma
+590,perlihatkan foto kita saat keluar,date
+591,tampilkan foto saat di kampus,kuliah
+592,tampilkan foto saat kuliah,kuliah 
+593,aku ingin lihat foto saat date,date
+594,tolong tampilkan foto saat sma,sma
+595,aku ingin lihat foto ku,yudo
+596,aku ingin lihat foto ovil,ovil 
+597,aku ingin lihat foto ovil saja,ovil 
+598,bisa tolong tampilkan foto ku,yudo
+599,foto saat kuliah,kuliah
+600,foto acara kampus,kuliah
+601,aku ingin lihat foto ovil apa saja,ovil 
+602,aku ingin lihat jumplah foto ku,len_yudo
+603,jumlah foto saat kuliah berapa,len_kuliah
+604,berapasih jumlah foto ku,len_yudo
+605,tampilkan foto ovil,ovil 
+606,tampilkan foto ku dong,yudo
+607,kenangan saat sma,sma
+608,tampilkan jumlah foto saat sma,len_sma
+609,kenangan saat sma apa saja,sma 
+610,tampilkan foto ovil saja ya,ovil 
+611,tampilkan foto saat jaman sma,sma
+612,tampilkan foto kita saat berdua,date
+613,aku ingin lihat foto mesra kita,date
+614,tampilkan kenangan saat sma,sma
+615,tampilkan foto aktivitas kita di kampus,kuliah
+616,aku ingin lihat foto yudo,yudo
+617,perlihatkan foto yudo saja,yudo
+618,aku ingin mengingat kenangan dulu saat sma,sma
+619,perlihatkan foto kita saat keluar,date
+620,tampilkan foto saat di kampus,kuliah
+621,tampilkan foto saat kuliah,kuliah 
+622,aku ingin lihat foto saat date,date
+623,tolong tampilkan foto saat sma,sma
+624,aku ingin lihat foto ku,yudo
+625,aku ingin lihat foto ovil,ovil 
+626,aku ingin lihat foto ovil saja,ovil 
+627,bisa tolong tampilkan foto ku,yudo
+628,foto saat kuliah,kuliah
+629,foto acara kampus,kuliah
+630,aku ingin lihat foto ovil apa saja,ovil 
+631,aku ingin lihat jumplah foto ku,len_yudo
+632,jumlah foto saat kuliah berapa,len_kuliah
+633,berapasih jumlah foto ku,len_yudo
+634,tampilkan foto ovil,ovil 
+635,tampilkan foto ku dong,yudo
+636,kenangan saat sma,sma
+637,tampilkan jumlah foto saat sma,len_sma
+638,kenangan saat sma apa saja,sma 
+639,tampilkan foto ovil saja ya,ovil 
+640,tampilkan foto saat jaman sma,sma
+641,tampilkan foto kita saat berdua,date
+642,aku ingin lihat foto mesra kita,date
+643,tampilkan kenangan saat sma,sma
+644,tampilkan foto aktivitas kita di kampus,kuliah
+645,aku ingin lihat foto yudo,yudo
+646,perlihatkan foto yudo saja,yudo
+647,aku ingin mengingat kenangan dulu saat sma,sma
+648,perlihatkan foto kita saat keluar,date
+649,tampilkan foto saat di kampus,kuliah
+650,tampilkan foto saat kuliah,kuliah 
+651,aku ingin lihat foto saat date,date
+652,tolong tampilkan foto saat sma,sma
+653,aku ingin lihat foto ku,yudo
+654,aku ingin lihat foto ovil,ovil 
+655,aku ingin lihat foto ovil saja,ovil 
+656,bisa tolong tampilkan foto ku ,yudo
+657,foto saat kuliah,kuliah
+658,foto acara kampus,kuliah
+659,aku ingin lihat foto ovil apa saja,ovil 
+660,aku ingin lihat jumplah foto ku,len_yudo
+661,jumlah foto saat kuliah berapa,len_kuliah
+662,berapasih jumlah foto ku,len_yudo
+663,tampilkan foto ovil,ovil 
+664,tampilkan foto ku dong,yudo
+665,kenangan saat sma,sma
+666,tampilkan jumlah foto saat sma,len_sma
+667,kenangan saat sma apa saja,sma 
+668,tampilkan foto ovil saja ya,ovil 
+669,tampilkan foto saat jaman sma,sma
+670,tampilkan foto kita saat berdua,date
+671,aku ingin lihat foto mesra kita,date
+672,tampilkan kenangan saat sma,sma
+673,tampilkan foto aktivitas kita di kampus,kuliah
+674,aku ingin lihat foto yudo,yudo
+675,perlihatkan foto yudo saja,yudo
+676,aku ingin mengingat kenangan dulu saat sma,sma
+677,tampilkan dong jumlah foto saat date ya,len_date
+678,tampilkan foto saat di kampus,kuliah
+679,tampilkan foto saat kuliah,kuliah 
+680,aku ingin lihat foto saat date,date
+681,tolong tampilkan foto saat sma,sma
+682,aku ingin lihat foto ku,yudo
+683,aku ingin lihat foto ovil,ovil 
+684,aku ingin lihat foto ovil saja,ovil 
+685,bisa tolong tampilkan foto ku,yudo
+686,foto saat kuliah,kuliah
+687,foto acara kampus,kuliah
+688,aku ingin lihat foto ovil apa saja,ovil 
+689,aku ingin lihat jumplah foto ku,len_yudo
+690,jumlah foto saat kuliah berapa,len_kuliah
+691,berapasih jumlah foto ku,len_yudo
+692,tampilkan foto ovil,ovil 
+693,tampilkan foto ku dong,yudo
+694,kenangan saat sma,sma
+695,tampilkan jumlah foto saat sma,len_sma
+696,kenangan saat sma apa saja,sma 
+697,tampilkan foto ovil saja ya,ovil 
+698,tampilkan foto saat jaman sma,sma
+699,jumlah foto saat kita date,len_date
+700,tampilkan foto kita saat berdua,date
+701,aku ingin lihat foto mesra kita,date
+702,tampilkan kenangan saat sma,sma
+703,tampilkan foto aktivitas kita di kampus,kuliah
+704,aku ingin lihat foto yudo,yudo
+705,perlihatkan foto yudo saja,yudo
+706,aku ingin mengingat kenangan dulu saat sma,sma
+707,perlihatkan foto kita saat keluar,date
+708,tampilkan foto saat di kampus,kuliah
+709,tampilkan foto saat kuliah,kuliah 
+710,aku ingin lihat foto saat date,date
+711,tolong tampilkan foto saat sma,sma
+712,aku ingin lihat foto ku,yudo
+713,aku ingin lihat foto ovil,ovil 
+714,aku ingin lihat foto ovil saja,ovil 
+715,bisa tolong tampilkan foto ku,yudo
+716,foto saat kuliah,kuliah
+717,foto acara kampus,kuliah
+718,aku ingin lihat foto ovil apa saja,ovil 
+719,aku ingin lihat jumplah foto ku,len_yudo
+720,jumlah foto saat kuliah berapa,len_kuliah
+721,berapasih jumlah foto ku ,len_yudo
+722,tampilkan foto ovil,ovil 
+723,tampilkan foto ku dong,yudo
+724,kenangan saat sma,sma
+725,tampilkan jumlah foto saat sma,len_sma
+726,kenangan saat sma apa saja,sma 
+727,tampilkan foto ovil saja ya,ovil 
+728,tampilkan foto saat jaman sma,sma
+729,tampilkan foto kita saat berdua,date
+730,aku ingin lihat foto mesra kita,date
+731,tampilkan kenangan saat sma ,sma
+732,tampilkan foto aktivitas kita di kampus,kuliah
+733,aku ingin lihat foto yudo,yudo
+734,perlihatkan foto yudo saja,yudo
+735,aku ingin mengingat kenangan dulu saat sma,sma
+736,perlihatkan foto kita saat keluar,date
+737,tampilkan foto saat di kampus,kuliah
+738,tampilkan foto saat kuliah,kuliah 
+739,aku ingin lihat foto saat date,date
+740,tolong tampilkan foto saat sma,sma
+741,aku ingin lihat foto ku,yudo
+742,aku ingin lihat foto ovil,ovil 
+743,aku ingin lihat foto ovil saja,ovil 
+744,bisa tolong tampilkan foto ku,yudo
+745,foto saat kuliah,kuliah
+746,foto acara kampus,kuliah
+747,aku ingin lihat foto ovil apa saja,ovil 
+748,aku ingin lihat jumplah foto ku,len_yudo
+749,jumlah foto saat kuliah berapa,len_kuliah
+750,berapasih jumlah foto ku,len_yudo
+751,tampilkan foto ovil,ovil 
+752,tampilkan foto ku dong,yudo
+753,kenangan saat sma,sma
+754,tampilkan jumlah foto saat sma,len_sma
+755,kenangan saat sma apa saja,sma 
+756,tampilkan foto ovil saja ya,ovil 
+757,tampilkan foto saat jaman sma,sma
+758,tampilkan foto kita saat berdua,date
+759,aku ingin lihat foto mesra kita,date
+760,tampilkan kenangan saat sma ,sma
+761,tampilkan foto aktivitas kita di kampus,kuliah
+762,aku ingin lihat foto yudo,yudo
+763,perlihatkan foto yudo saja,yudo
+764,aku ingin mengingat kenangan dulu saat sma,sma
+765,perlihatkan foto kita saat keluar,date
+766,tampilkan foto saat di kampus,kuliah
+767,tampilkan foto saat kuliah,kuliah 
+768,aku ingin lihat foto saat date,date
+769,tolong tampilkan foto saat sma,sma
+770,aku ingin lihat foto ku,yudo
+771,aku ingin lihat foto ovil,ovil 
+772,aku ingin lihat foto ovil saja,ovil 
+773,bisa tolong tampilkan foto ku,yudo
+774,foto saat kuliah,kuliah
+775,foto acara kampus,kuliah
+776,aku ingin lihat foto ovil apa saja,ovil 
+777,aku ingin lihat jumplah foto ku,len_yudo
+778,jumlah foto saat kuliah berapa,len_kuliah
+779,berapasih jumlah foto ku,len_yudo
+780,tampilkan foto ovil,ovil 
+781,tampilkan foto ku dong,yudo
+782,kenangan saat sma,sma
+783,tampilkan jumlah foto saat sma,len_sma
+784,kenangan saat sma apa saja,sma 
+785,tampilkan foto ovil saja ya,ovil 
+786,tampilkan foto saat jaman sma,sma
+787,tampilkan foto kita saat berdua,date
+788,aku ingin lihat foto mesra kita,date
+789,tampilkan kenangan saat sma,sma
+790,tampilkan foto aktivitas kita di kampus,kuliah
+791,aku ingin lihat foto yudo,yudo
+792,perlihatkan foto yudo saja,yudo
+793,aku ingin mengingat kenangan dulu saat sma,sma
+794,perlihatkan foto kita saat keluar,date
+795,tampilkan foto saat di kampus,kuliah
+796,tampilkan foto saat kuliah,kuliah 
+797,aku ingin lihat foto saat date,date
+798,tolong tampilkan foto saat sma,sma
+799,aku ingin lihat foto ku,yudo
+800,aku ingin lihat foto ovil,ovil 
+801,aku ingin lihat foto ovil saja,ovil 
+802,bisa tolong tampilkan foto ku ,yudo
+803,foto saat kuliah,kuliah
+804,foto acara kampus,kuliah
+805,aku ingin lihat foto ovil apa saja,ovil 
+806,aku ingin lihat jumplah foto ku,len_yudo
+807,jumlah foto saat kuliah berapa,len_kuliah
+808,berapasih jumlah foto ku,len_yudo
+809,tampilkan foto ovil,ovil 
+810,tampilkan foto ku dong,yudo
+811,kenangan saat sma,sma
+812,tampilkan jumlah foto saat sma,len_sma
+813,kenangan saat sma apa saja,sma 
+814,tampilkan foto ovil saja ya,ovil 
+815,tampilkan foto saat jaman sma,sma
+816,tampilkan foto kita saat berdua,date
+817,aku ingin lihat foto mesra kita,date
+818,tampilkan kenangan saat sma,sma
+819,tampilkan foto aktivitas kita di kampus,kuliah
+820,aku ingin lihat foto yudo,yudo
+821,perlihatkan foto yudo saja,yudo
+822,aku ingin mengingat kenangan dulu saat sma,sma
+823,perlihatkan foto kita saat keluar,date
+824,tampilkan foto saat di kampus,kuliah
+825,tampilkan foto saat kuliah,kuliah 
+826,aku ingin lihat foto saat date,date
+827,tolong tampilkan foto saat sma,sma
+828,aku ingin lihat foto ku,yudo
+829,aku ingin lihat foto ovil,ovil 
+830,aku ingin lihat foto ovil saja,ovil 
+831,bisa tolong tampilkan foto ku,yudo
+832,foto saat kuliah,kuliah
+833,foto acara kampus,kuliah
+834,aku ingin lihat foto ovil apa saja,ovil 
+835,aku ingin lihat jumplah foto ku,len_yudo
+836,jumlah foto saat kuliah berapa,len_kuliah
+837,berapasih jumlah foto ku,len_yudo
+838,tampilkan foto ovil,ovil 
+839,tampilkan foto ku dong,yudo
+840,kenangan saat sma,sma
+841,tampilkan jumlah foto saat sma,len_sma
+842,kenangan saat sma apa saja,sma 
+843,tampilkan foto ovil saja ya,ovil 
+844,tampilkan foto saat jaman sma,sma
+845,tampilkan jumlah foto date,len_date
+846,aku ingin lihat foto mesra kita,date
+847,tampilkan kenangan saat sma,sma
+848,tampilkan foto aktivitas kita di kampus,kuliah
+849,aku ingin lihat foto yudo,yudo
+850,perlihatkan foto yudo saja,yudo
+851,aku ingin mengingat kenangan dulu saat sma,sma
+852,perlihatkan foto kita saat keluar,date
+853,tampilkan foto saat di kampus,kuliah
+854,tampilkan foto saat kuliah,kuliah 
+855,aku ingin lihat foto saat date,date
+856,tolong tampilkan foto saat sma,sma
+857,aku ingin lihat foto ku,yudo
+858,aku ingin lihat foto ovil,ovil 
+859,aku ingin lihat foto ovil saja,ovil 
+860,bisa tolong tampilkan foto ku,yudo
+861,foto saat kuliah,kuliah
+862,foto acara kampus,kuliah
+863,aku ingin lihat foto ovil apa saja,ovil 
+864,aku ingin lihat jumplah foto ku,len_yudo
+865,jumlah foto saat kuliah berapa,len_kuliah
+866,berapasih jumlah foto ku,len_yudo
+867,tampilkan foto ovil,ovil 
+868,tampilkan foto ku dong,yudo
+869,kenangan saat sma,sma
+870,tampilkan jumlah foto saat sma,len_sma
+871,kenangan saat sma apa saja,sma 
+872,tampilkan foto ovil saja ya,ovil 
+873,tampilkan foto saat jaman sma,sma
+874,tampilkan foto kita saat berdua,date
+875,tampilkan foto kita saat berdua,date
+876,aku ingin lihat foto mesra kita,date
+877,tampilkan kenangan saat sma,sma
+878,tampilkan foto aktivitas kita di kampus,kuliah
+879,aku ingin lihat foto yudo,yudo
+880,perlihatkan foto yudo saja,yudo
+881,aku ingin mengingat kenangan dulu saat sma,sma
+882,perlihatkan foto kita saat keluar,date
+883,tampilkan foto saat di kampus,kuliah
+884,tampilkan foto saat kuliah,kuliah 
+885,aku ingin lihat foto saat date,date
+886,tolong tampilkan foto saat sma,sma
+887,aku ingin lihat foto ku,yudo
+888,aku ingin lihat foto ovil,ovil 
+889,aku ingin lihat foto ovil saja,ovil 
+890,bisa tolong tampilkan foto ku,yudo
+891,foto saat kuliah,kuliah
+892,foto acara kampus,kuliah
+893,aku ingin lihat foto ovil apa saja,ovil 
+894,aku ingin lihat jumplah foto ku,len_yudo
+895,jumlah foto saat kuliah berapa,len_kuliah
+896,berapasih jumlah foto ku ,len_yudo
+897,tampilkan foto ovil,ovil 
+898,tampilkan foto ku dong,yudo
+899,kenangan saat sma,sma
+900,tampilkan jumlah foto saat sma,len_sma
+901,kenangan saat sma apa saja,sma 
+902,tampilkan foto ovil saja ya,ovil 
+903,tampilkan foto saat jaman sma,sma
+904,tampilkan foto kita saat berdua,date
+905,aku ingin lihat foto mesra kita,date
+906,tampilkan kenangan saat sma,sma
+907,tampilkan foto aktivitas kita di kampus,kuliah
+908,aku ingin lihat foto yudo,yudo
+909,perlihatkan foto yudo saja,yudo
+910,aku ingin mengingat kenangan dulu saat sma,sma
+911,perlihatkan foto kita saat keluar,date
+912,tampilkan foto saat di kampus,kuliah
+913,tampilkan foto saat kuliah,kuliah 
+914,aku ingin lihat foto saat date,date
+915,tolong tampilkan foto saat sma,sma
+916,aku ingin lihat foto ku,yudo
+917,aku ingin lihat foto ovil,ovil 
+918,aku ingin lihat foto ovil saja,ovil 
+919,bisa tolong tampilkan foto ku ,yudo
+920,foto saat kuliah,kuliah
+921,foto acara kampus,kuliah
+922,aku ingin lihat foto ovil apa saja,ovil 
+923,aku ingin lihat jumplah foto ku,len_yudo
+924,jumlah foto saat kuliah berapa,len_kuliah
+925,berapasih jumlah foto ku,len_yudo
+926,tampilkan foto ovil,ovil 
+927,tampilkan foto ku dong,yudo
+928,kenangan saat sma,sma
+929,tampilkan jumlah foto saat sma,len_sma
+930,kenangan saat sma apa saja,sma 
+931,tampilkan foto ovil saja ya,ovil 
+932,tampilkan foto saat jaman sma,sma
+933,tampilkan foto kita saat berdua,date
+934,aku ingin lihat foto mesra kita,date
+935,tampilkan kenangan saat sma,sma
+936,tampilkan foto aktivitas kita di kampus,kuliah
+937,aku ingin lihat foto yudo,yudo
+938,perlihatkan foto yudo saja,yudo
+939,aku ingin mengingat kenangan dulu saat sma,sma
+940,perlihatkan foto kita saat keluar,date
+941,tampilkan foto saat di kampus,kuliah
+942,tampilkan foto saat kuliah,kuliah 
+943,aku ingin lihat foto saat date,date
+944,tolong tampilkan foto saat sma,sma
+945,aku ingin lihat foto ku,yudo
+946,aku ingin lihat foto ovil,ovil 
+947,aku ingin lihat foto ovil saja,ovil 
+948,bisa tolong tampilkan foto ku,yudo
+949,foto saat kuliah,kuliah
+950,foto acara kampus,kuliah
+951,aku ingin lihat foto ovil apa saja,ovil 
+952,aku ingin lihat jumplah foto ku,len_yudo
+953,jumlah foto saat kuliah berapa,len_kuliah
+954,berapasih jumlah foto ku,len_yudo
+955,tampilkan foto ovil,ovil 
+956,tampilkan foto ku dong,yudo
+957,kenangan saat sma,sma
+958,tampilkan jumlah foto saat sma,len_sma
+959,kenangan saat sma apa saja,sma 
+960,tampilkan foto ovil saja ya,ovil 
+961,tampilkan foto saat jaman sma,sma
+962,tampilkan foto kita saat berdua,date
+963,aku ingin lihat foto mesra kita,date
+964,tampilkan kenangan saat sma,sma
+965,tampilkan foto aktivitas kita di kampus,kuliah
+966,aku ingin lihat foto yudo,yudo
+967,perlihatkan foto yudo saja,yudo
+968,aku ingin mengingat kenangan dulu saat sma,sma
+969,perlihatkan foto kita saat keluar,date
+970,tampilkan foto saat di kampus,kuliah
+971,tampilkan foto saat kuliah,kuliah 
+972,aku ingin lihat foto saat date,date
+973,tolong tampilkan foto saat sma,sma
+974,aku ingin lihat foto ku,yudo
+975,aku ingin lihat foto ovil,ovil 
+976,aku ingin lihat foto ovil saja,ovil 
+977,bisa tolong tampilkan foto ku,yudo
+978,foto saat kuliah,kuliah
+979,foto acara kampus,kuliah
+980,aku ingin lihat foto ovil apa saja,ovil 
+981,aku ingin lihat jumplah foto ku,len_yudo
+982,jumlah foto saat kuliah berapa,len_kuliah
+983,berapasih jumlah foto ku,len_yudo
+984,tampilkan foto ovil,ovil 
+985,tampilkan foto ku dong,yudo
+986,kenangan saat sma,sma
+987,tampilkan jumlah foto saat sma,len_sma
+988,kenangan saat sma apa saja,sma 
+989,tampilkan foto ovil saja ya,ovil 
+990,tampilkan foto saat jaman sma,sma
+991,tampilkan foto kita saat berdua,date
+992,aku ingin lihat foto mesra kita,date
+993,tampilkan kenangan saat sma,sma
+994,tampilkan foto aktivitas kita di kampus,kuliah
+995,aku ingin lihat foto yudo,yudo
+996,perlihatkan foto yudo saja,yudo
+997,aku ingin mengingat kenangan dulu saat sma,sma
+998,perlihatkan foto kita saat keluar,date
+999,tampilkan foto saat di kampus,kuliah
+1000,tampilkan foto saat kuliah,kuliah 
+1001,aku ingin lihat foto saat date,date
+1002,tolong tampilkan foto saat sma,sma
+1003,aku ingin lihat foto ku,yudo
+1004,aku ingin lihat foto ovil,ovil 
+1005,aku ingin lihat foto ovil saja,ovil 
+1006,bisa tolong tampilkan foto ku,yudo
+1007,foto saat kuliah,kuliah
+1008,foto acara kampus,kuliah
+1009,aku ingin lihat foto ovil apa saja,ovil 
+1010,aku ingin lihat jumplah foto ku,len_yudo
+1011,jumlah foto saat kuliah berapa,len_kuliah
+1012,berapasih jumlah foto ku,len_yudo
+1013,tampilkan foto ovil,ovil 
+1014,tampilkan foto ku dong,yudo
+1015,kenangan saat sma,sma
+1016,tampilkan jumlah foto saat sma,len_sma
+1017,kenangan saat sma apa saja,sma 
+1018,tampilkan foto ovil saja ya,ovil 
+1019,tampilkan foto saat jaman sma,sma
+1020,tampilkan foto kita saat berdua,date
+1021,aku ingin lihat foto mesra kita,date
+1022,tampilkan kenangan saat sma,sma
+1023,tampilkan foto aktivitas kita di kampus,kuliah
+1024,aku ingin lihat foto yudo,yudo
+1025,perlihatkan foto yudo saja,yudo
+1026,aku ingin mengingat kenangan dulu saat sma,sma
+1027,tampilkan dong jumlah foto saat date ya,len_date
+1028,tampilkan foto saat di kampus,kuliah
+1029,tampilkan foto saat kuliah,kuliah 
+1030,aku ingin lihat foto saat date,date
+1031,tolong tampilkan foto saat sma,sma
+1032,aku ingin lihat foto ku,yudo
+1033,aku ingin lihat foto ovil,ovil 
+1034,aku ingin lihat foto ovil saja,ovil 
+1035,bisa tolong tampilkan foto ku,yudo
+1036,foto saat kuliah,kuliah
+1037,foto acara kampus,kuliah
+1038,aku ingin lihat foto ovil apa saja,ovil 
+1039,aku ingin lihat jumplah foto ku,len_yudo
+1040,jumlah foto saat kuliah berapa,len_kuliah
+1041,berapasih jumlah foto ku,len_yudo
+1042,tampilkan foto ovil,ovil 
+1043,tampilkan foto ku dong,yudo
+1044,kenangan saat sma,sma
+1045,tampilkan jumlah foto saat sma,len_sma
+1046,kenangan saat sma apa saja,sma 
+1047,tampilkan foto ovil saja ya,ovil 
+1048,tampilkan foto saat jaman sma,sma
+1049,jumlah foto date,len_date
+1050,tampilkan foto kita saat berdua,date
+1051,aku ingin lihat foto mesra kita,date
+1052,tampilkan kenangan saat sma,sma
+1053,tampilkan foto aktivitas kita di kampus,kuliah
+1054,aku ingin lihat foto yudo,yudo
+1055,perlihatkan foto yudo saja,yudo
+1056,aku ingin mengingat kenangan dulu saat sma,sma
+1057,perlihatkan foto kita saat keluar,date
+1058,tampilkan foto saat di kampus,kuliah
+1059,tampilkan foto saat kuliah,kuliah 
+1060,aku ingin lihat foto saat date ,date
+1061,tolong tampilkan foto saat sma,sma
+1062,aku ingin lihat foto ku,yudo
+1063,aku ingin lihat foto ovil,ovil 
+1064,aku ingin lihat foto ovil saja,ovil 
+1065,bisa tolong tampilkan foto ku,yudo
+1066,foto saat kuliah,kuliah
+1067,foto acara kampus,kuliah
+1068,aku ingin lihat foto ovil apa saja,ovil 
+1069,aku ingin lihat jumplah foto ku,len_yudo
+1070,jumlah foto saat kuliah berapa,len_kuliah
+1071,berapasih jumlah foto ku,len_yudo
+1072,tampilkan foto ovil,ovil 
+1073,tampilkan foto ku dong,yudo
+1074,kenangan saat sma,sma
+1075,tampilkan jumlah foto saat sma,len_sma
+1076,kenangan saat sma apa saja,sma 
+1077,tampilkan foto ovil saja ya,ovil 
+1078,tampilkan foto saat jaman sma,sma
+1079,tampilkan foto kita saat berdua,date
+1080,aku ingin lihat foto mesra kita,date
+1081,tampilkan kenangan saat sma,sma
+1082,tampilkan foto aktivitas kita di kampus,kuliah
+1083,aku ingin lihat foto yudo,yudo
+1084,perlihatkan foto yudo saja,yudo
+1085,aku ingin mengingat kenangan dulu saat sma,sma
+1086,perlihatkan foto kita saat keluar,date
+1087,tampilkan foto saat di kampus,kuliah
+1088,tampilkan foto saat kuliah,kuliah 
+1089,aku ingin lihat foto saat date,date
+1090,tolong tampilkan foto saat sma,sma
+1091,aku ingin lihat foto ku,yudo
+1092,aku ingin lihat foto ovil,ovil 
+1093,aku ingin lihat foto ovil saja,ovil 
+1094,bisa tolong tampilkan foto ku,yudo
+1095,foto saat kuliah,kuliah
+1096,foto acara kampus,kuliah
+1097,aku ingin lihat foto ovil apa saja,ovil 
+1098,aku ingin lihat jumplah foto ku,len_yudo
+1099,jumlah foto saat kuliah berapa,len_kuliah
+1100,berapasih jumlah foto ku,len_yudo
+1101,tampilkan foto ovil,ovil 
+1102,tampilkan foto ku dong,yudo
+1103,kenangan saat sma,sma
+1104,tampilkan jumlah foto saat sma,len_sma
+1105,kenangan saat sma apa saja,sma 
+1106,tampilkan foto ovil saja ya,ovil 
+1107,tampilkan foto saat jaman sma,sma
+1108,tampilkan foto kita saat berdua,date
+1109,aku ingin lihat foto mesra kita,date
+1110,tampilkan kenangan saat sma,sma
+1111,tampilkan foto aktivitas kita di kampus,kuliah
+1112,aku ingin lihat foto yudo,yudo
+1113,perlihatkan foto yudo saja,yudo
+1114,aku ingin mengingat kenangan dulu saat sma,sma
+1115,perlihatkan foto kita saat keluar,date
+1116,tampilkan foto saat di kampus,kuliah
+1117,tampilkan foto saat kuliah,kuliah 
+1118,aku ingin lihat foto saat date,date
+1119,tolong tampilkan foto saat sma,sma
+1120,aku ingin lihat foto ku,yudo
+1121,aku ingin lihat foto ovil,ovil 
+1122,aku ingin lihat foto ovil saja,ovil 
+1123,bisa tolong tampilkan foto ku,yudo
+1124,foto saat kuliah,kuliah
+1125,foto acara kampus,kuliah
+1126,aku ingin lihat foto ovil apa saja,ovil 
+1127,aku ingin lihat jumplah foto ku,len_yudo
+1128,jumlah foto saat kuliah berapa,len_kuliah
+1129,berapasih jumlah foto ku,len_yudo
+1130,tampilkan foto ovil,ovil 
+1131,tampilkan foto ku dong,yudo
+1132,kenangan saat sma,sma
+1133,tampilkan jumlah foto saat sma,len_sma
+1134,kenangan saat sma apa saja,sma 
+1135,tampilkan foto ovil saja ya,ovil 
+1136,tampilkan foto saat jaman sma,sma
+1137,tampilkan foto kita saat berdua,date
+1138,aku ingin lihat foto mesra kita,date
+1139,tampilkan kenangan saat sma,sma
+1140,tampilkan foto aktivitas kita di kampus,kuliah
+1141,aku ingin lihat foto yudo,yudo
+1142,perlihatkan foto yudo saja,yudo
+1143,aku ingin mengingat kenangan dulu saat sma,sma
+1144,perlihatkan foto kita saat keluar,date
+1145,tampilkan foto saat di kampus,kuliah
+1146,tampilkan foto saat kuliah,kuliah 
+1147,aku ingin lihat foto saat date,date
+1148,tolong tampilkan foto saat sma,sma
+1149,aku ingin lihat foto ku,yudo
+1150,aku ingin lihat foto ovil,ovil 
+1151,aku ingin lihat foto ovil saja,ovil 
+1152,bisa tolong tampilkan foto ku,yudo
+1153,foto saat kuliah,kuliah
+1154,foto acara kampus,kuliah
+1155,aku ingin lihat foto ovil apa saja,ovil 
+1156,aku ingin lihat jumplah foto ku,len_yudo
+1157,jumlah foto saat kuliah berapa,len_kuliah
+1158,berapasih jumlah foto ku,len_yudo
+1159,tampilkan foto ovil,ovil 
+1160,tampilkan foto ku dong,yudo
+1161,kenangan saat sma,sma
+1162,tampilkan jumlah foto saat sma,len_sma
+1163,kenangan saat sma apa saja,sma 
+1164,tampilkan foto ovil saja ya,ovil 
+1165,tampilkan foto saat jaman sma,sma
+1166,tampilkan foto kita saat berdua,date
+1167,aku ingin lihat foto mesra kita,date
+1168,tampilkan kenangan saat sma,sma
+1169,tampilkan foto aktivitas kita di kampus,kuliah
+1170,aku ingin lihat foto yudo,yudo
+1171,perlihatkan foto yudo saja,yudo
+1172,aku ingin mengingat kenangan dulu saat sma,sma
+1173,perlihatkan foto kita saat keluar,date
+1174,tampilkan foto saat di kampus,kuliah
+1175,tampilkan foto saat kuliah,kuliah 
+1176,aku ingin lihat foto saat date,date
+1177,tolong tampilkan foto saat sma,sma
+1178,aku ingin lihat foto ku,yudo
+1179,aku ingin lihat foto ovil,ovil 
+1180,aku ingin lihat foto ovil saja,ovil 
+1181,bisa tolong tampilkan foto ku,yudo
+1182,foto saat kuliah,kuliah
+1183,foto acara kampus,kuliah
+1184,aku ingin lihat foto ovil apa saja,ovil 
+1185,aku ingin lihat jumplah foto ku,len_yudo
+1186,jumlah foto saat kuliah berapa,len_kuliah
+1187,berapasih jumlah foto ku,len_yudo
+1188,tampilkan foto ovil,ovil 
+1189,tampilkan foto ku dong,yudo
+1190,kenangan saat sma,sma
+1191,tampilkan jumlah foto saat sma,len_sma
+1192,kenangan saat sma apa saja,sma 
+1193,tampilkan foto ovil saja ya,ovil 
+1194,tampilkan foto saat jaman sma,sma
+1195,tampilkan jumlah foto date,len_date
+1196,aku ingin lihat foto mesra kita,date
+1197,tampilkan kenangan saat sma,sma
+1198,tampilkan foto aktivitas kita di kampus,kuliah
+1199,aku ingin lihat foto yudo,yudo
+1200,perlihatkan foto yudo saja,yudo
+1201,aku ingin mengingat kenangan dulu saat sma,sma
+1202,perlihatkan foto kita saat keluar,date
+1203,tampilkan foto saat di kampus,kuliah
+1204,tampilkan foto saat kuliah,kuliah 
+1205,aku ingin lihat foto saat date,date
+1206,tolong tampilkan foto saat sma,sma
+1207,aku ingin lihat foto ku,yudo
+1208,aku ingin lihat foto ovil,ovil 
+1209,aku ingin lihat foto ovil saja,ovil 
+1210,bisa tolong tampilkan foto ku,yudo
+1211,foto saat kuliah,kuliah
+1212,foto acara kampus,kuliah
+1213,aku ingin lihat foto ovil apa saja,ovil 
+1214,aku ingin lihat jumplah foto ku,len_yudo
+1215,jumlah foto saat kuliah berapa,len_kuliah
+1216,berapasih jumlah foto ku,len_yudo
+1217,tampilkan foto ovil,ovil 
+1218,tampilkan foto ku dong,yudo
+1219,kenangan saat sma,sma
+1220,tampilkan jumlah foto saat sma,len_sma
+1221,kenangan saat sma apa saja,sma 
+1222,tampilkan foto ovil saja ya,ovil 
+1223,tampilkan foto saat jaman sma,sma
+1224,tampilkan foto kita saat berdua,date
+1225,tampilkan foto kita saat berdua,date
+1226,aku ingin lihat foto mesra kita,date
+1227,tampilkan kenangan saat sma,sma
+1228,tampilkan foto aktivitas kita di kampus,kuliah
+1229,aku ingin lihat foto yudo,yudo
+1230,perlihatkan foto yudo saja,yudo
+1231,aku ingin mengingat kenangan dulu saat sma,sma
+1232,perlihatkan foto kita saat keluar,date
+1233,tampilkan foto saat di kampus,kuliah
+1234,tampilkan foto saat kuliah,kuliah 
+1235,aku ingin lihat foto saat date,date
+1236,tolong tampilkan foto saat sma,sma
+1237,aku ingin lihat foto ku,yudo
+1238,aku ingin lihat foto ovil,ovil 
+1239,aku ingin lihat foto ovil saja,ovil 
+1240,bisa tolong tampilkan foto ku,yudo
+1241,foto saat kuliah,kuliah
+1242,foto acara kampus,kuliah
+1243,aku ingin lihat foto ovil apa saja,ovil 
+1244,aku ingin lihat jumplah foto ku,len_yudo
+1245,jumlah foto saat kuliah berapa,len_kuliah
+1246,berapasih jumlah foto ku,len_yudo
+1247,tampilkan foto ovil,ovil 
+1248,tampilkan foto ku dong,yudo
+1249,kenangan saat sma,sma
+1250,tampilkan jumlah foto saat sma,len_sma
+1251,kenangan saat sma apa saja,sma 
+1252,tampilkan foto ovil saja ya,ovil 
+1253,tampilkan foto saat jaman sma,sma
+1254,tampilkan foto kita saat berdua,date
+1255,aku ingin lihat foto mesra kita,date
+1256,tampilkan kenangan saat sma,sma
+1257,tampilkan foto aktivitas kita di kampus,kuliah
+1258,aku ingin lihat foto yudo,yudo
+1259,perlihatkan foto yudo saja,yudo
+1260,aku ingin mengingat kenangan dulu saat sma,sma
+1261,perlihatkan foto kita saat keluar,date
+1262,tampilkan foto saat di kampus,kuliah
+1263,tampilkan foto saat kuliah,kuliah 
+1264,aku ingin lihat foto saat date,date
+1265,tolong tampilkan foto saat sma,sma
+1266,aku ingin lihat foto ku,yudo
+1267,aku ingin lihat foto ovil,ovil 
+1268,aku ingin lihat foto ovil saja,ovil 
+1269,bisa tolong tampilkan foto ku,yudo
+1270,foto saat kuliah,kuliah
+1271,foto acara kampus,kuliah
+1272,aku ingin lihat foto ovil apa saja,ovil 
+1273,aku ingin lihat jumplah foto ku,len_yudo
+1274,jumlah foto saat kuliah berapa,len_kuliah
+1275,berapasih jumlah foto ku,len_yudo
+1276,tampilkan foto ovil,ovil 
+1277,tampilkan foto ku dong,yudo
+1278,kenangan saat sma,sma
+1279,tampilkan jumlah foto saat sma,len_sma
+1280,kenangan saat sma apa saja,sma 
+1281,tampilkan foto ovil saja ya,ovil 
+1282,tampilkan foto saat jaman sma,sma
+1283,tampilkan foto kita saat berdua,date
+1284,aku ingin lihat foto mesra kita,date
+1285,tampilkan kenangan saat sma,sma
+1286,tampilkan foto aktivitas kita di kampus,kuliah
+1287,aku ingin lihat foto yudo,yudo
+1288,perlihatkan foto yudo saja,yudo
+1289,aku ingin mengingat kenangan dulu saat sma,sma
+1290,perlihatkan foto kita saat keluar,date
+1291,tampilkan foto saat di kampus,kuliah
+1292,tampilkan foto saat kuliah,kuliah 
+1293,aku ingin lihat foto saat date,date
+1294,tolong tampilkan foto saat sma,sma
+1295,aku ingin lihat foto ku,yudo
+1296,aku ingin lihat foto ovil,ovil 
+1297,aku ingin lihat foto ovil saja,ovil 
+1298,bisa tolong tampilkan foto ku,yudo
+1299,foto saat kuliah,kuliah
+1300,foto acara kampus,kuliah
+1301,aku ingin lihat foto ovil apa saja,ovil 
+1302,aku ingin lihat jumplah foto ku,len_yudo
+1303,jumlah foto saat kuliah berapa,len_kuliah
+1304,berapasih jumlah foto ku,len_yudo
+1305,tampilkan foto ovil,ovil 
+1306,tampilkan foto ku dong,yudo
+1307,kenangan saat sma,sma
+1308,tampilkan jumlah foto saat sma,len_sma
+1309,kenangan saat sma apa saja,sma 
+1310,tampilkan foto ovil saja ya,ovil 
+1311,tampilkan foto saat jaman sma,sma
+1312,tampilkan foto kita saat berdua,date
+1313,aku ingin lihat foto mesra kita,date
+1314,tampilkan kenangan saat sma,sma
+1315,tampilkan foto aktivitas kita di kampus,kuliah
+1316,aku ingin lihat foto yudo,yudo
+1317,perlihatkan foto yudo saja,yudo
+1318,aku ingin mengingat kenangan dulu saat sma,sma
+1319,perlihatkan foto kita saat keluar,date
+1320,tampilkan foto saat di kampus,kuliah
+1321,tampilkan foto saat kuliah,kuliah 
+1322,aku ingin lihat foto saat date,date
+1323,tolong tampilkan foto saat sma,sma
+1324,aku ingin lihat foto ku,yudo
+1325,aku ingin lihat foto ovil,ovil 
+1326,aku ingin lihat foto ovil saja,ovil 
+1327,bisa tolong tampilkan foto ku,yudo
+1328,foto saat kuliah,kuliah
+1329,foto acara kampus,kuliah
+1330,aku ingin lihat foto ovil apa saja,ovil 
+1331,aku ingin lihat jumplah foto ku,len_yudo
+1332,jumlah foto saat kuliah berapa,len_kuliah
+1333,berapasih jumlah foto ku,len_yudo
+1334,tampilkan foto ovil,ovil 
+1335,tampilkan foto ku dong,yudo
+1336,kenangan saat sma,sma
+1337,tampilkan jumlah foto saat sma,len_sma
+1338,kenangan saat sma apa saja,sma 
+1339,tampilkan foto ovil saja ya,ovil 
+1340,tampilkan foto saat jaman sma,sma
+1341,tampilkan foto kita saat berdua,date
+1342,aku ingin lihat foto mesra kita,date
+1343,tampilkan kenangan saat sma,sma
+1344,tampilkan foto aktivitas kita di kampus,kuliah
+1345,aku ingin lihat foto yudo,yudo
+1346,perlihatkan foto yudo saja,yudo
+1347,aku ingin mengingat kenangan dulu saat sma,sma
+1348,perlihatkan foto kita saat keluar,date
+1349,tampilkan foto saat di kampus,kuliah
+1350,tampilkan foto saat kuliah,kuliah 
+1351,aku ingin lihat foto saat date,date
+1352,tolong tampilkan foto saat sma,sma
+1353,aku ingin lihat foto ku,yudo
+1354,aku ingin lihat foto ovil,ovil 
+1355,aku ingin lihat foto ovil saja,ovil 
+1356,bisa tolong tampilkan foto ku ,yudo
+1357,foto saat kuliah,kuliah
+1358,foto acara kampus,kuliah
+1359,aku ingin lihat foto ovil apa saja,ovil 
+1360,aku ingin lihat jumplah foto ku,len_yudo
+1361,jumlah foto saat kuliah berapa,len_kuliah
+1362,berapasih jumlah foto ku,len_yudo
+1363,tampilkan foto ovil,ovil 
+1364,tampilkan foto ku dong,yudo
+1365,kenangan saat sma,sma
+1366,tampilkan jumlah foto saat sma,len_sma
+1367,kenangan saat sma apa saja,sma 
+1368,tampilkan foto ovil saja ya,ovil 
+1369,tampilkan foto saat jaman sma,sma
+1370,tampilkan foto kita saat berdua,date
+1371,aku ingin lihat foto mesra kita,date
+1372,tampilkan kenangan saat sma,sma
+1373,tampilkan foto aktivitas kita di kampus,kuliah
+1374,aku ingin lihat foto yudo,yudo
+1375,perlihatkan foto yudo saja,yudo
+1376,aku ingin mengingat kenangan dulu saat sma,sma
+1377,tampilkan dong jumlah foto saat date ya,len_date
+1378,tampilkan foto saat di kampus,kuliah
+1379,tampilkan foto saat kuliah,kuliah 
+1380,aku ingin lihat foto saat date,date
+1381,tolong tampilkan foto saat sma,sma
+1382,aku ingin lihat foto ku,yudo
+1383,aku ingin lihat foto ovil,ovil 
+1384,aku ingin lihat foto ovil saja,ovil 
+1385,bisa tolong tampilkan foto ku,yudo
+1386,foto saat kuliah,kuliah
+1387,foto acara kampus,kuliah
+1388,aku ingin lihat foto ovil apa saja,ovil 
+1389,aku ingin lihat jumplah foto ku,len_yudo
+1390,jumlah foto saat kuliah berapa,len_kuliah
+1391,berapasih jumlah foto ku,len_yudo
+1392,tampilkan foto ovil,ovil 
+1393,tampilkan foto ku dong,yudo
+1394,kenangan saat sma,sma
+1395,tampilkan jumlah foto saat sma,len_sma
+1396,kenangan saat sma apa saja,sma 
+1397,tampilkan foto ovil saja ya,ovil 
+1398,tampilkan foto saat jaman sma,sma
